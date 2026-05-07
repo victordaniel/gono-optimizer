@@ -28,6 +28,15 @@ cc_t  = <∇L_t, ∇L_{t-1}> / (||∇L_t|| · ||∇L_{t-1}||)   ← one dot prod
 
 **Key result:** cc_t achieves **F1 = 1.00** for oscillation detection vs **F1 = 0.45** for gradient norm.
 
+### Direction-Loss Decoupling Phenomenon
+![Decoupling](figures/decoupling_phenomenon.png)
+
+### Oscillation Detection: cc_t (F1=1.00) vs Gradient Norm (F1=0.45)
+![Oscillation Detection](figures/oscillation_detection.png)
+
+### MNIST Benchmark
+![MNIST](figures/mnist_benchmark.png)
+
 ---
 
 ## Installation
