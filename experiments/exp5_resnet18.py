@@ -1,5 +1,5 @@
 """
-Experiment 8: ResNet-18 on CIFAR-10 Benchmark
+Experiment 5: ResNet-18 on CIFAR-10 Benchmark
 
 GONO vs AdamW vs SGD-M on full CIFAR-10 (50k train).
 Architecture: ResNet-18, 100 epochs, cosine LR schedule.

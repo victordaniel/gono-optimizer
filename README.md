@@ -114,13 +114,13 @@ python experiments/exp4_cifar10.py
 - Output: `results/exp4_cifar10.png`
 - Expected: GONO ≈ 43.1%, AdamW ≈ 43.2%, Adam ≈ 42.8%
 
-### Experiment 8: ResNet-18 Benchmark (Section 5.6 in paper)
+### Experiment 5: ResNet-18 Benchmark (Section 5.6 in paper)
 ```bash
-python experiments/exp8_resnet18.py
+python experiments/exp5_resnet18.py
 ```
 - Runtime: ~2 hours on GPU (100 epochs × 3 seeds)
 - Downloads CIFAR-10 automatically to `./data/`
-- Output: `results/exp8_resnet18.png`
+- Output: `results/exp5_resnet18.png`
 - Expected: GONO ≈ 75.4%, AdamW ≈ 76.9%, SGD-M ≈ 66.2%
 
 ---
