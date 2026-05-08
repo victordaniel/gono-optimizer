@@ -4,7 +4,7 @@ Official implementation of:
 
 **"Directional Consistency as a Complementary Optimization Signal: The GONO Framework"**
 Victor Daniel Gera — Anurag University
-[[arXiv]](ARXIV_LINK_HERE) | [[Paper PDF]](PAPER_PDF_LINK_HERE)
+[[arXiv]](https://arxiv.org/abs/2605.06575) | [[Paper PDF]](PAPER_PDF_LINK_HERE)
 
 ---
 
@@ -158,6 +158,6 @@ python experiments/exp5_resnet18.py
   author  = {Gera, Victor Daniel},
   journal = {arXiv preprint},
   year    = {2026},
-  url     = {ARXIV_LINK_HERE}
+  url     = {https://arxiv.org/abs/2605.06575}
 }
 ```
